@@ -47,7 +47,8 @@ body {
 }
 
 #profile img {
-  width: 112px;
+  width: 8rem;
+  clip-path: circle(50% at 50% 50%);
 }
 
 #profile p {
